@@ -1,5 +1,4 @@
 /L1/cmd_vel
-/L1/cmd_vel_no_potential
 /L1/imu
 /L1/limo_status
 /L1/odom
